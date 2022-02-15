@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Home work set 1
-type: OCWFile
 uid: 7332dbc0-bfae-d638-5299-d0e81fd79d6d
 ---
