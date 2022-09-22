@@ -5,6 +5,7 @@ file: /courses/9-16-cellular-neurophysiology-spring-2002/cfd7e3b8231e24250dada39
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
